@@ -1,5 +1,7 @@
 # CAR SALES DASHBOARD | OVERVIEW
 ## Driving Insights, Accelerating Success with My Latest Power BI Project
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE2MDA1ZWEtMWExNy00MjJlLWFhY2QtNjFlMGY0ODg0ZTA2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 
 As a data analyst, I'm thrilled to share insights from my latest project – creating a comprehensive car sales dashboard using Power BI. This dashboard provided our team with a deep dive into the performance of various car brands, empowering us to make informed, data-driven decisions.
 
